@@ -1,17 +1,12 @@
-<h1 align="center">سلام، من ماهانم 👋</h1>
+<h1 align="center">Hi there, I'm Mahan 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-
-<p align="center">
-  🧑‍💻 دانشجوی مهندسی کامپیوتر | 💡 علاقه‌مند به توسعه‌ی بک‌اند با Django | 🌍 عاشق ترکیب فناوری با دنیای واقعی
+  👨‍💻 Computer Engineering Student | 🛠️ Backend Developer with Django | 🌍 Passionate about combining tech with real-world problems
 </p>
 
 ---
 
-### 🔧 با چی‌ها کار کردم:
+### 🧰 Technologies & Tools I've Worked With:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -24,46 +19,43 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Virtualenv](https://img.shields.io/badge/Virtualenv-000000?style=for-the-badge&logo=python&logoColor=white)
 
-
 ---
 
-### 🚀 پروژه‌های من
+### 🚀 My Projects
 
 #### 📝 [Django_blog](https://github.com/MahanMa78/Django_blog)
-پروژه وبلاگ با Django — شامل:
-- احراز هویت کاربران
-- ایجاد، ویرایش و حذف پست‌ها
-- کامنت‌گذاری
-- پنل مدیریت پایه  
-(در حال توسعه و بهبود مداوم)
+A simple blog project built with Django, featuring:
+- User authentication
+- Post creation, editing, and deletion
+- Commenting system
+- Basic admin panel  
+🧪 *Still under development and improvements*
 
-#### 🛒 [ecommerce_api](https://github.com/MahanMa78/ecommerce_api) (در حال توسعه)
-API فروشگاه اینترنتی با Django REST Framework — شامل:
-- ثبت‌نام و ورود با JWT
-- مدیریت دسته‌بندی و محصولات
-- سبد خرید و سفارش‌ها
-- پنل مدیریتی پایه  
-این پروژه رو برای تمرین ساختار حرفه‌ای و گسترش‌پذیر در بک‌اند ساختم.
-
----
-
-### 🎯 درباره‌ی من
-
-من یک دانشجوی مهندسی کامپیوترم که عاشق کدنویسی تمیز، یادگیری مفاهیم عمیق و ساختن چیزهایی‌ام که در دنیای واقعی به درد بخورن.  
-به حوزه‌هایی مثل **GIS و تحلیل داده‌های مکانی** هم علاقه دارم و دنبال ترکیبشون با برنامه‌نویسی هستم.
+#### 🛒 [ecommerce_api](https://github.com/MahanMa78/ecommerce_api) *(in progress)*
+An e-commerce backend API built with Django REST Framework:
+- JWT-based authentication
+- Category and product management
+- Shopping cart & order handling
+- Basic admin control  
+📦 Designed to practice professional and scalable backend structure
 
 ---
 
-### 🛠️ در حال حاضر در حال یادگیری...
+### 🎯 About Me
 
-- بهبود مهارت در Django REST Framework
-- معماری پروژه‌های واقعی و قابل گسترش
-- استفاده از ابزارهای حرفه‌ای‌تر دیتابیس
+I'm a computer engineering student who enjoys writing clean code, learning deeply, and building things that make an impact in the real world.  
+I'm also interested in areas like **GIS and spatial data analysis**, and I'm exploring how to combine them with backend development.
+
+---
+
+### 🛠️ Currently Learning
+
+- Improving with Django REST Framework
+- Designing scalable backend architectures
+- Working with more advanced database tools
 
 ---
 
-### 📬 ارتباط با من
+### 📬 Get in Touch
 
-[LinkedIn](https://linkedin.com/in/mahan-mazaheri) | [Email](mahan78ir2@gmail.com)
-
----
+[LinkedIn](https://linkedin.com/in/mahan-mazaheri) | [Email](mailto:mahan78ir2@gmail.com)
